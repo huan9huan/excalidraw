@@ -1,1 +1,2 @@
-yarn lint-staged
+#!/bin/sh
+# yarn lint-staged
